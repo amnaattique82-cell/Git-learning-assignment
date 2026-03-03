@@ -1,0 +1,4 @@
+name: amna attique
+roll no:FA25-BCS-142
+department:computer science
+learning github is Fun
